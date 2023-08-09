@@ -36,3 +36,6 @@ neovim).
 
 Though, Mr. Lincoln's time split seems to be bit too much. I tend to relate to
 the quote. Fine tuned tools perform much better, putting us in flow longer.
+
+I [tweet](https://twitter.com/jikkujose) quite often and I am planning to take
+up blogging. Lets see how this goes.
